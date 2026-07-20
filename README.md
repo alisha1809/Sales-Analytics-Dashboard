@@ -57,4 +57,5 @@ Business Intelligence
 Data Visualization
 
 📷 Dashboard Preview
-!(Dashboard.png)
+
+![Sales Dashboard](Dashboard.PNG)
