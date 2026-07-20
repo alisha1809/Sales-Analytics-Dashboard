@@ -1,6 +1,6 @@
 📊 Sales Performance Dashboard
-📌 Overview
 
+📌 Overview
 This project is an interactive Sales Performance Dashboard built in Power BI to analyze business sales data. It provides key performance indicators (KPIs), sales trends, and interactive filters that help users gain insights into sales performance across different regions, categories, and payment methods.
 
 🎯 Objectives
@@ -57,3 +57,4 @@ Business Intelligence
 Data Visualization
 
 📷 Dashboard Preview
+![Sales Dashboard](Dashboard.png)
