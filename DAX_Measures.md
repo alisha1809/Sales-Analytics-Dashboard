@@ -1,33 +1,17 @@
-# DAX Measures
+Total Sales =
+SUM(SalesData[Sales])
 
-## Total Sales
+Total Profit =
+SUM(SalesData[Profit])
 
-```DAX
-Total Sales = SUM(SalesData[Sales])
-```
+Total Quantity =
+SUM(SalesData[Quantity])
 
-## Total Profit
+Total Orders =
+DISTINCTCOUNT(SalesData[Order_ID])
 
-```DAX
-Total Profit = SUM(SalesData[Profit])
-```
-
-## Total Orders
-
-```DAX
-Total Orders = DISTINCTCOUNT(SalesData[Order_ID])
-```
-
-## Average Order Value
-
-```DAX
 Average Order Value =
-DIVIDE([Total Sales],[Total Orders])
-```
+DIVIDE([Total Sales], [Total Orders])
 
-## Profit Margin %
-
-```DAX
-Profit Margin =
-DIVIDE([Total Profit],[Total Sales])
-```
+Profit Margin % =
+DIVIDE([Total Profit], [Total Sales])
