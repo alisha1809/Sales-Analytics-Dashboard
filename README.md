@@ -1,94 +1,59 @@
-# 📊 Sales Analytics Dashboard
+📊 Sales Performance Dashboard
+📌 Overview
 
-## 📌 Overview
+This project is an interactive Sales Performance Dashboard built in Power BI to analyze business sales data. It provides key performance indicators (KPIs), sales trends, and interactive filters that help users gain insights into sales performance across different regions, categories, and payment methods.
 
-This project analyzes sales data to identify business trends, customer behavior, product performance, and regional sales insights using Power BI.
+🎯 Objectives
+Analyze overall sales performance
+Track monthly sales trends
+Compare sales across product categories
+Compare regional sales performance
+Analyze payment mode distribution
+Build an interactive dashboard using Power BI
 
-The dashboard is designed to help businesses make data-driven decisions by monitoring key performance indicators (KPIs) and visualizing sales performance.
+🛠 Tech Stack
+Power BI
+Microsoft Excel
+DAX
+Power Query
 
----
+📂 Dataset
+The dataset contains business transaction data including:
 
-## 🎯 Objectives
+Order ID
+Order Date
+Product Category
+Sales
+Profit
+Quantity
+Region
+Payment Mode
+Customer Details
 
-- Analyze overall sales performance
-- Identify top-performing products
-- Compare regional sales
-- Analyze customer purchasing behavior
-- Monitor profitability
-- Build an interactive business dashboard
+📊 Dashboard KPIs
+Total Sales
+Total Profit
+Total Quantity
+Total Orders
 
----
+📈 Dashboard Visuals
+Sales by Month (Line Chart)
+Sales by Category (Column Chart)
+Sales by Region (Bar Chart)
+Sales by Payment Mode (Donut Chart)
+Interactive Slicers
+Payment Mode
+Region
+Category
 
-## 🛠 Tech Stack
+🚀 Skills Demonstrated
+Data Cleaning
+Data Modeling
+DAX
+Power Query
+Dashboard Design
+KPI Reporting
+Business Intelligence
+Data Visualization
 
-- Power BI
-- Microsoft Excel
-- SQL
-- Power Query
-- DAX
-
----
-
-## 📂 Dataset
-
-The dataset contains **1000 business transactions** including:
-
-- Orders
-- Customers
-- Products
-- Sales
-- Profit
-- Discounts
-- Regions
-- Payment Modes
-
----
-
-## 📊 Dashboard KPIs
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Average Order Value
-- Profit Margin
-
----
-
-## 📈 Dashboard Pages
-
-### Executive Dashboard
-
-- Sales Overview
-- Monthly Sales Trend
-- Sales by Category
-- Sales by Region
-
-### Customer Analysis
-
-- Top Customers
-- Customer Segments
-- Customer Sales
-
-### Product Analysis
-
-- Top Products
-- Category Performance
-- Product Profitability
-
-### Regional Analysis
-
-- State-wise Sales
-- Region-wise Profit
-- City Analysis
-
----
-
-## 🚀 Skills Demonstrated
-
-- Data Cleaning
-- Data Visualization
-- Dashboard Design
-- DAX
-- Power Query
-- Business Analysis
-- KPI Reporting
+📷 Dashboard Preview
